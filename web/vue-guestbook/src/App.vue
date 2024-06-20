@@ -29,7 +29,7 @@
 <script lang="ts">
 import { defineComponent, ref, onMounted } from 'vue';
 import axios from 'axios';
-axios.defaults.baseURL = 'http://localhost:3008/';
+axios.defaults.baseURL = 'http://localhost:3009/';
 
 interface Message {
   _id: string;
