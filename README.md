@@ -17,3 +17,15 @@ Guestbook is perfect for anyone who wants to collect messages and feedback from 
 
 1. **Send your name and message**: Fill out the form with your name and a message.
 2. **View sent messages**: Sent messages will be displayed along with the name and date sent.
+
+## ⚙ How to run on your machine
+
+```
+run the server
+cd api
+npm run dev
+
+run the frontend
+cd Path/folder/src
+npm run dev
+```
